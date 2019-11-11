@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Controls (buttons) render without crashing 1`] = `
+<DocumentFragment>
+  <div
+    class="controls panel"
+  >
+    <button
+      class="toggle-btn"
+      disabled=""
+    >
+      Lock Gate
+    </button>
+    <button
+      class="toggle-btn"
+    >
+      Close Gate
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Controls render as expected 1`] = `
+<DocumentFragment>
+  <div
+    class="controls panel"
+  >
+    <button
+      class="toggle-btn"
+      disabled=""
+    >
+      Lock Gate
+    </button>
+    <button
+      class="toggle-btn"
+    >
+      Close Gate
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Controls render without crashing 1`] = `
+<DocumentFragment>
+  <div
+    class="controls panel"
+  >
+    <button
+      class="toggle-btn"
+      disabled=""
+    >
+      Lock Gate
+    </button>
+    <button
+      class="toggle-btn"
+    >
+      Close Gate
+    </button>
+  </div>
+</DocumentFragment>
+`;
